@@ -4,6 +4,9 @@ html {
   background-color:white;
 
 }
+
+
+
 /* logo */
 #logo {
   width: 100px;
@@ -27,6 +30,9 @@ html {
   z-index: 1000;
 
 }
+
+
+
 .Navbar li a {
   padding: 8px;
   justify-content: flex-end;
@@ -304,7 +310,6 @@ footer {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     height: 100%;
     width: 30%;
-    
     margin-top: 80px;
     border: 1px solid black;
     border-radius: 1%;
